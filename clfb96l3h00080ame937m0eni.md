@@ -14,7 +14,7 @@ HTML (HyperText Markup Language) is the foundation of every website on the inter
 
 ## What are HTML Tags?
 
-HTML (Hypertext Markup Language) tags are elements used to structure and format content on a web page. HTML tags are enclosed in angle brackets and consist of a start tag, content, and an end tag. 
+HTML (Hypertext Markup Language) tags are elements used to structure and format content on a web page. HTML tags are enclosed in angle brackets and consist of a start tag, content, and an end tag.
 
 The start tag indicates the beginning of the element, while the end tag indicates the end of the element. Some HTML tags are self-closing, meaning they do not require an end tag.
 
@@ -24,7 +24,7 @@ HTML tags define different elements on a web page such as headings, paragraphs, 
 
 ## Common HTML tags and their uses
 
-### The &lt;html&gt; Tag
+The &lt;html&gt; Tag
 
 The `<html>` tag is one of the most fundamental tags in HTML, as it defines the beginning and end of an HTML document. This tag is required in every HTML document and it indicates to the browser that the following code is HTML markup.
 
@@ -34,7 +34,7 @@ The tag is used to contain information about the web page, such as the title, me
 
 By placing all other tags inside the `<html>` tags, you are creating a well-structured HTML document that is easy for browsers to read and display. It is important to follow this structure to ensure that your HTML document is properly formatted and that it is displayed correctly in web browsers.
 
-## The &lt;head&gt; Tag
+### The &lt;head&gt; Tag
 
 The `<head>` tag in HTML is used to contain information about the web page, such as the title, meta information, and links to other resources. This information is not displayed on the web page itself but is used by browsers to provide additional information about the page.
 
@@ -411,7 +411,7 @@ You can also use multiple "`div`" tags to create more complex layouts on your we
 
 In this example, multiple `"div"` tags are used to create a container, row, and column layout for a heading, paragraph, and image. The classes `"container"`, "row", and `"col-md-6`" are from a popular CSS framework called Bootstrap, which helps to create responsive and flexible layouts for web pages.
 
-Overall, the `"div"` tag is a versatile HTML element that allows web developers to create containers for groups of HTML elements, and to apply styles or other attributes to the entire group of elements at once. 
+Overall, the `"div"` tag is a versatile HTML element that allows web developers to create containers for groups of HTML elements, and to apply styles or other attributes to the entire group of elements at once.
 
 ## Summary
 
