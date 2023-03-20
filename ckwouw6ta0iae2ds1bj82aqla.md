@@ -5,7 +5,7 @@ seoDescription: "Take a few minutes (or a day) to think about the reasons—the 
 datePublished: Thu Dec 02 2021 11:09:55 GMT+0000 (Coordinated Universal Time)
 cuid: ckwouw6ta0iae2ds1bj82aqla
 slug: learn-programming-in-these-simple-steps
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678178686775/be41586a-cf66-4d58-8d5a-c5047ecafa0e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679301136445/65b224b5-2125-4fef-94fe-cb74dd9d0c49.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1638443276140/7d0iBPKQu.jpeg
 tags: programming-blogs, programming, beginners, programming-tips, learn-coding
 
