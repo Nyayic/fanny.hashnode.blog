@@ -5,7 +5,7 @@ seoDescription: "There are a number of great websites that can help you practice
 datePublished: Sat Jun 18 2022 10:04:35 GMT+0000 (Coordinated Universal Time)
 cuid: cl4jpqu08007kw0nv2z2y63ah
 slug: top-15-websites-to-practice-coding
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678178581696/f6495ab4-68bf-4a7c-9809-6c9c9a584122.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679301301149/745350ff-d6db-4459-a6c9-4f31d94207fc.jpeg
 tags: coding, coding-challenge, womenwhocode, learn-coding, womenwhotech
 
 ---
