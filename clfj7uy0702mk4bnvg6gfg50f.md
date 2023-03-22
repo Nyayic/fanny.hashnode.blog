@@ -20,8 +20,7 @@ We have talked about [Less CSS here](https://fanny.hashnode.dev/introduction-to-
 
 ## Now, Why use Less CSS for your web projects?
 
-1. ### Modularity and Reusability
-    
+### Modularity and Reusability
 
 Less CSS allows you to break down your code into smaller, more manageable modules, which can be reused across your entire project. This modularity helps to minimize the amount of code you have to write, making your development process faster and more efficient.
 
@@ -44,8 +43,7 @@ Then, you can use that variable throughout your website in your Less code, like 
 
 With this approach, you are able to easily update the primary color by changing the variable value in your Less file, and it will automatically update across all pages where it's used. This not only saves time and effort but also ensures consistency across your entire website.
 
-1. ### Faster Development and Debugging
-    
+### Faster Development and Debugging
 
 Less CSS is designed to make your development process faster and more efficient. Its use of variables, mixins, and functions allows you to write less code while achieving more. Plus, it provides an easier debugging experience compared to traditional CSS.
 
@@ -94,8 +92,7 @@ In the example above, the box-shadow mixin takes four optional parameters, which
 
 With Less CSS, you can easily locate and fix errors within your code, thanks to its support for nested rules and functions, which provide a clearer and more structured way of writing code. This feature makes it easier for developers to locate and fix bugs in their code, thus speeding up the development process.
 
-1. ## Better Performance
-    
+## Better Performance
 
 Less CSS improves your website's performance by reducing the size of your CSS files. This reduction in file size can result in faster page load times, which can help to improve user experience and SEO.
 
