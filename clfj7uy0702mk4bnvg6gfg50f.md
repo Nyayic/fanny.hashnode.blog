@@ -92,7 +92,7 @@ In the example above, the box-shadow mixin takes four optional parameters, which
 
 With Less CSS, you can easily locate and fix errors within your code, thanks to its support for nested rules and functions, which provide a clearer and more structured way of writing code. This feature makes it easier for developers to locate and fix bugs in their code, thus speeding up the development process.
 
-## Better Performance
+### Better Performance
 
 Less CSS improves your website's performance by reducing the size of your CSS files. This reduction in file size can result in faster page load times, which can help to improve user experience and SEO.
 
