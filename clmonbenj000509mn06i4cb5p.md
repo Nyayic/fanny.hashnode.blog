@@ -170,7 +170,7 @@ Pseudo-elements use a double colon (`::`) to target specific parts of an element
 
 Here's an example of styling the first letter of a paragraph:
 
-```plaintext
+```css
 ::first-letter {
   font-size: 24px;
   color: red;
