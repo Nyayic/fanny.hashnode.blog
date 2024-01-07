@@ -5,7 +5,7 @@ seoDescription: "Customizing themes and color schemes in Visual Studio Code empo
 datePublished: Fri Dec 15 2023 03:30:09 GMT+0000 (Coordinated Universal Time)
 cuid: clq62mv6t000208jpaxwc3jzo
 slug: how-to-customize-themes-and-color-schemes-in-vs-code
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702266490225/5c006d9a-544f-4e51-a5a6-ba75922cab70.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704641070195/8eede832-317e-439f-868f-a1c17188ea91.jpeg
 tags: programming-blogs, visual-studio, vscode, vs-code, programming-tips
 
 ---
