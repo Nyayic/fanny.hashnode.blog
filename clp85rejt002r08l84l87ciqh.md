@@ -3,7 +3,7 @@ title: "Dynamic Programming: Solving Complex Problems with Simplicity"
 datePublished: Tue Nov 21 2023 09:53:30 GMT+0000 (Coordinated Universal Time)
 cuid: clp85rejt002r08l84l87ciqh
 slug: dynamic-programming-solving-complex-problems-with-simplicity
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700559389606/62973240-0b15-4dea-a925-3f2c21964de1.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704643160317/e7900970-80e3-43fd-8236-1fcdebc9dc08.jpeg
 tags: programming-blogs, dynamic-programming
 
 ---
