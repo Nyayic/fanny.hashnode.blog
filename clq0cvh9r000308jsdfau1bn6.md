@@ -5,7 +5,7 @@ seoDescription: "Visual Studio Code allows extensive customization through its s
 datePublished: Mon Dec 11 2023 03:30:10 GMT+0000 (Coordinated Universal Time)
 cuid: clq0cvh9r000308jsdfau1bn6
 slug: setting-up-visual-studio-code-for-effective-web-development
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702263252256/ec97acdd-44f6-4451-9f54-2d1629b66daf.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704641110124/c1872d02-b087-4bc1-95cf-e9807b9831c5.jpeg
 tags: programming-blogs, visual-studio, vscode, vs-code, programming-tips
 
 ---
