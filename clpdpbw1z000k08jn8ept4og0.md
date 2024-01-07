@@ -3,7 +3,7 @@ title: "A Beginner's Guide to PHP Programming"
 datePublished: Sat Nov 25 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clpdpbw1z000k08jn8ept4og0
 slug: a-beginners-guide-to-php-programming
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700628352191/a6f3cfc9-b39e-4f2d-a936-3474a4a45991.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704641309180/e8cb37da-015b-4989-94e8-9d3676ccd136.jpeg
 tags: php, coding, codenewbies, php-programming
 
 ---
