@@ -3,7 +3,7 @@ title: "The Best JavaScript Projects for Beginners: Top 5 Picks"
 datePublished: Thu Nov 23 2023 07:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clpaug8iy000109lc3v5ycd86
 slug: the-best-javascript-projects-for-beginners-top-5-picks
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700626910667/6374761a-e071-4474-ad39-47804ec1b7b2.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704643077694/58347470-0d7b-4e23-89ea-d9b1350d5516.jpeg
 tags: programming-blogs, javascript, programming-tips
 
 ---
