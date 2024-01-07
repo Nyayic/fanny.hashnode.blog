@@ -3,7 +3,7 @@ title: "Top PHP Programming Projects for Beginners"
 datePublished: Mon Nov 27 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clpgk7l8m000909lb0eys5lwb
 slug: top-php-programming-projects-for-beginners
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700631821971/56b07a3d-52fc-4f02-8a00-dc02bbacc3af.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704641141955/958fe515-d1cd-44b3-b018-99d3a52088ca.jpeg
 tags: programming-blogs, php, programming-tips, php-programming
 
 ---
