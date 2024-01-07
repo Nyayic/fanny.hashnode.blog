@@ -3,7 +3,7 @@ title: "Top 10 Best Ways to Learn Programming"
 datePublished: Wed Nov 22 2023 04:04:24 GMT+0000 (Coordinated Universal Time)
 cuid: clp98qb55000109jzgty68gli
 slug: top-10-best-ways-to-learn-programming
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700625672930/0bbe7624-0694-4ed2-89e7-bace080f23c5.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704643117941/4d0c2e28-984e-4b08-8d4b-ef55d2ac6cb7.jpeg
 tags: programming-blogs, codenewbies, programming-tips
 
 ---
