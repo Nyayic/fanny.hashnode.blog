@@ -3,7 +3,7 @@ title: "What is PHP Programming Used For?"
 datePublished: Sun Nov 26 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clpf4rql8000909jphfwddxft
 slug: what-is-php-programming-used-for
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700630511444/069f4b65-3d4a-4351-938c-770bac16aa9f.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704641237428/d42fee36-1e97-4f20-bb81-4aed44612f94.jpeg
 tags: php, codenewbies, codingnewbies, php-programming
 
 ---
