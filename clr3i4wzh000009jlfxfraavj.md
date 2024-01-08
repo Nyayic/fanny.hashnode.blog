@@ -12,13 +12,13 @@ tags: vscode, vs-code
 
 ## I. Introduction
 
-VS Code, short for Visual Studio Code, is a popular and versatile source code editor developed by Microsoft. It is known for its lightweight yet powerful features, making it a preferred choice for developers across various programming languages and platforms. 
+VS Code, short for Visual Studio Code, is a popular and versatile source code editor developed by Microsoft. It is known for its lightweight yet powerful features, making it a preferred choice for developers across various programming languages and platforms.
 
 With its customizable interface, built-in Git integration, and a wide range of extensions, VS Code offers a seamless and efficient coding experience.
 
 ### Understanding Coding Environments
 
-Coding environments refer to the digital spaces where developers create, edit, and manage code. These environments, like Visual Studio Code, offer essential tools and interfaces tailored to streamline the coding process. 
+Coding environments refer to the digital spaces where developers create, edit, and manage code. These environments, like Visual Studio Code, offer essential tools and interfaces tailored to streamline the coding process.
 
 Understanding these environments is crucial as they greatly impact a developer's efficiency and the quality of their work.
 
@@ -49,7 +49,7 @@ A quality code editor is essential for developers as it not only enhances produc
 
 One of the key features of VS Code is its extensive support for different programming languages, including but not limited to JavaScript, Python, C++, and Java.
 
-The editor provides intelligent code completion, syntax highlighting, and debugging capabilities, empowering developers to write and debug code with ease. 
+The editor provides intelligent code completion, syntax highlighting, and debugging capabilities, empowering developers to write and debug code with ease.
 
 Additionally, its integrated terminal allows for seamless execution of commands and tasks without leaving the editor environment.
 
@@ -61,7 +61,7 @@ VS Code reveals a versatile platform ideal for a diverse range of coding tasks. 
 
 #### Brief history and evolution
 
-Visual Studio Code (VS Code) has a fascinating history and evolution. Initially built for web app development using JavaScript and TypeScript, it quickly gained popularity due to its efficiency and versatility. 
+Visual Studio Code (VS Code) has a fascinating history and evolution. Initially built for web app development using JavaScript and TypeScript, it quickly gained popularity due to its efficiency and versatility.
 
 VS Code's journey began with a mix of JavaScript and TypeScript, but it eventually transitioned to being predominantly built with TypeScript.
 
@@ -69,9 +69,9 @@ Launched in 2015, it has continuously evolved, offering a wide range of features
 
 #### Significance in the coding landscape
 
- Its robust features, cross-platform accessibility, and extensive customization options have redefined the coding experience.
+Its robust features, cross-platform accessibility, and extensive customization options have redefined the coding experience.
 
-This editor's impact extends beyond a mere tool; it's become a cornerstone in modern software development. 
+This editor's impact extends beyond a mere tool; it's become a cornerstone in modern software development.
 
 With its ability to streamline workflows, facilitate collaboration, and adapt to various programming languages, VS Code has cemented its place as an indispensable asset in the toolkit of programmers worldwide, influencing and shaping the coding landscape for enhanced productivity and innovation.
 
@@ -81,13 +81,13 @@ With its ability to streamline workflows, facilitate collaboration, and adapt to
 
 Cross-platform compatibility refers to the ability of software or hardware to function seamlessly across different operating systems or platforms.
 
-This ensures that applications or devices can work across various environments, such as Windows, macOS, and Linux, without any major issues. 
+This ensures that applications or devices can work across various environments, such as Windows, macOS, and Linux, without any major issues.
 
-Visual Studio Code (VS Code) is renowned for its exceptional cross-platform compatibility, as it seamlessly operates on Windows, macOS, and Linux. 
+Visual Studio Code (VS Code) is renowned for its exceptional cross-platform compatibility, as it seamlessly operates on Windows, macOS, and Linux.
 
 This allows developers to utilize the same set of tools and features across different operating systems, ensuring a consistent and efficient coding experience.
 
-For instance, a developer can seamlessly transition from working on a project in VS Code on a Windows machine to continuing the same work on a macOS or Linux system without encountering any compatibility issues. 
+For instance, a developer can seamlessly transition from working on a project in VS Code on a Windows machine to continuing the same work on a macOS or Linux system without encountering any compatibility issues.
 
 This level of cross-platform compatibility significantly streamlines the development process and fosters collaboration among teams using different operating systems.
 
@@ -165,7 +165,7 @@ Located on the far left, it contains icons for navigating between different view
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704618706950/bd9d1cfa-8b0d-426b-bbe2-f6dcbe4279c2.png align="center")
 
-##### Side Bar: 
+##### Side Bar:
 
 Positioned on the left-hand side, it includes the Explorer for navigating files and folders, as well as other views like Search and Source Control.
 
@@ -177,13 +177,13 @@ The main area in the center where code files are opened for editing. It supports
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704618428053/a2e754d7-0a6c-4937-b353-99a3c224b850.png align="center")
 
-##### Panel: 
+##### Panel:
 
 Positioned at the bottom or on the right-hand side, it hosts various panels such as Terminal, Output, and Debug Console, providing additional functionality and information.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704617345773/2c894670-ae85-4b96-a91d-ba1740a087b8.png align="center")
 
-##### Status Bar: 
+##### Status Bar:
 
 Located at the bottom, it displays information about the current project and provides access to features like language mode selection, indentation configuration, and line endings.
 
@@ -266,7 +266,7 @@ In Visual Studio Code, managing projects and directories involves tasks such as 
 
 **1\. Creating a new project:**
 
-To create a new project, you can use the "File" menu to create a new folder and then open it in VS Code. Alternatively, you can use the integrated terminal to create a new directory and then open it in VS Code using the command `code .`.
+To create a new project, you can use the "File" menu to create a new folder and then open it in VS Code. Alternatively, you can use the integrated terminal to create a new directory and then open it in VS Code using the command `code .`
 
 **2\. Opening an existing project:**
 
@@ -323,11 +323,15 @@ In Visual Studio Code, code refactoring and formatting tools are essential for i
 
 **Code Refactoring:**
 
-VS Code supports various refactoring operations, such as renaming symbols, extracting methods, and optimizing imports. These refactoring tools help developers efficiently restructure and improve their code without changing its external behavior. Refactoring tools in VS Code assist in making code more readable, efficient, and maintainable.
+VS Code supports various refactoring operations, such as renaming symbols, extracting methods, and optimizing imports.
+
+These refactoring tools help developers efficiently restructure and improve their code without changing its external behavior. Refactoring tools in VS Code assist in making code more readable, efficient, and maintainable.
 
 **Code Formatting:**
 
-VS Code provides built-in support for code formatting, enabling developers to maintain consistent code style and structure. It supports formatting for a wide range of programming languages and allows users to define and customize formatting rules based on their preferences. Additionally, developers can configure automatic formatting on save to ensure code consistency without manual intervention.
+VS Code provides built-in support for code formatting, enabling developers to maintain consistent code style and structure.
+
+It supports formatting for a wide range of programming languages and allows users to define and customize formatting rules based on their preferences. Additionally, developers can configure automatic formatting on save to ensure code consistency without manual intervention.
 
 ```javascript
 // Before code refactoring
@@ -350,31 +354,31 @@ In the example above, the code was refactored by extracting the multiplication o
 **Debugging in VS Code:**  
 Imagine you're working on a JavaScript program, and there's an issue where a function is not returning the expected result. Here's how debugging in VS Code helps:
 
-#### Setting Breakpoints: 
+#### Setting Breakpoints:
 
 You can place a breakpoint by clicking on the line number where the function starts. When you run your code in debug mode, it pauses execution at that line, allowing you to inspect variables and step through the code.
 
-#### Inspecting Variables: 
+#### Inspecting Variables:
 
 Using the debugger, you can see the values of variables at that breakpoint. For instance, you can check the values of input parameters or intermediate variables to understand if they hold the expected data.
 
 #### Stepping Through Code:
 
- You can step through the function line by line, observing how variables change and checking if the code follows the expected flow. This helps pinpoint where the code might be deviating from the intended behavior.
+You can step through the function line by line, observing how variables change and checking if the code follows the expected flow. This helps pinpoint where the code might be deviating from the intended behavior.
 
 **Troubleshooting in VS Code:**
 
 Let's say you're coding a web application in HTML, CSS, and JavaScript, and your webpage layout appears distorted:
 
-#### Error Identification: 
+#### Error Identification:
 
 VS Code might highlight syntax errors in your CSS or JavaScript code. For instance, it could indicate a missing closing bracket in your CSS, which is causing the layout to break. These indicators guide you to potential issues.
 
-#### Error Resolution: 
+#### Error Resolution:
 
 You navigate to the CSS file, find the missing bracket, and correct it. Then, you might also notice a JavaScript function that's manipulating the layout incorrectly. Using the debugger, you identify an error in that function logic, perhaps a typo in a variable name.
 
-#### Testing and Validation: 
+#### Testing and Validation:
 
 After making corrections, you run your code again to see if the layout issue is resolved. VS Code allows you to validate whether the changes you made have fixed the problem, ensuring that the webpage now displays correctly.
 
