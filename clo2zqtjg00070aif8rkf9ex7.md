@@ -3,7 +3,7 @@ title: "The Top HTML Editors for Web Development: A Comprehensive Guide"
 datePublished: Mon Oct 23 2023 14:26:32 GMT+0000 (Coordinated Universal Time)
 cuid: clo2zqtjg00070aif8rkf9ex7
 slug: the-top-html-editors-for-web-development-a-comprehensive-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698071140024/33b9994a-586d-4bf0-b4d6-32f1f83d6163.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704836971770/adcde881-db46-4a98-a160-154a3ab67846.jpeg
 tags: html5, text-editors, codenewbies
 
 ---
