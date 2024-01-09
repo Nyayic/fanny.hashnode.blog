@@ -3,7 +3,7 @@ title: "Understanding CSS Floats: A Comprehensive Guide"
 datePublished: Fri Oct 27 2023 08:46:03 GMT+0000 (Coordinated Universal Time)
 cuid: clo8dcdb5000509mjhswe2owq
 slug: understanding-css-floats-a-comprehensive-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698396167239/1eef69e4-703e-4b5a-8c7e-ba977cad2244.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704836554806/97666364-2e89-4a33-abf4-aeb265653b19.jpeg
 tags: css3, css
 
 ---
