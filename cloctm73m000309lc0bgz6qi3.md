@@ -3,7 +3,7 @@ title: "Debugging CSS: Tools and Techniques for Troubleshooting"
 datePublished: Mon Oct 30 2023 11:32:40 GMT+0000 (Coordinated Universal Time)
 cuid: cloctm73m000309lc0bgz6qi3
 slug: debugging-css-tools-and-techniques-for-troubleshooting
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698665538857/2a7fcde5-fe18-4555-a48a-ee40bb9a8ca5.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704836518609/40cd240e-1065-4e97-9969-e601079eb5c0.jpeg
 tags: css3, css-frameworks, css
 
 ---
