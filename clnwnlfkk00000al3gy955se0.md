@@ -1,9 +1,11 @@
 ---
 title: "How to Make Money with Only HTML and CSS: Building Profitable Web Projects"
+seoTitle: "How to Make Money with HTML and CSS"
+seoDescription: "Learn to cash in with HTML & CSS! Master web design skills to build lucrative websites and snag high-paying projects. Start earning now!"
 datePublished: Thu Oct 19 2023 03:59:48 GMT+0000 (Coordinated Universal Time)
 cuid: clnwnlfkk00000al3gy955se0
 slug: how-to-make-money-with-only-html-and-css-building-profitable-web-projects
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697687875563/0a8127e0-e98c-47f9-856a-71bfcea36b5e.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704947909582/85b9ff0d-f787-4952-a8a1-c715c856c8f6.jpeg
 tags: css, html5, make-money-online, html-and-css
 
 ---
