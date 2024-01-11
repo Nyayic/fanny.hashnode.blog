@@ -3,7 +3,7 @@ title: "Mastering Variables in LESS for Efficient Styling"
 datePublished: Sun Oct 15 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnr49y7x000109l680tfgfia
 slug: mastering-variables-in-less-for-efficient-styling
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697219476061/b1cca444-8ff2-4bd2-88c4-b5c951708289.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704948705435/372b54d3-9582-43d4-a431-1e888c4619e8.jpeg
 tags: less, css, less-css
 
 ---
