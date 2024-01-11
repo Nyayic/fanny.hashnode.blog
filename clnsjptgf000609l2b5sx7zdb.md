@@ -3,7 +3,7 @@ title: "Nesting in LESS: Simplifying CSS Structure"
 datePublished: Mon Oct 16 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnsjptgf000609l2b5sx7zdb
 slug: nesting-in-less-simplifying-css-structure
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697301832887/84e98bad-8d12-4961-8a40-535fdd9b4c14.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704948533358/a49c16cb-8754-42ab-8462-0e8b58cf645a.jpeg
 tags: less, css, less-css, 2articles1week
 
 ---
