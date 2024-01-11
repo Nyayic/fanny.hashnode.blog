@@ -1,9 +1,11 @@
 ---
 title: "CSS Flexbox and Grid Layouts: Simplified for Beginners"
+seoTitle: "CSS Flexbox and Grid Layouts"
+seoDescription: "CSS flexbox and grid layouts are powerful tools for creating responsive and flexible web layouts."
 datePublished: Fri Oct 20 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clny9h7qz000308l3geeh2cvm
 slug: css-flexbox-and-grid-layouts-simplified-for-beginners
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697688727474/8bb52cd0-5899-4572-b32b-6cf56abc15c9.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704947569024/cf1306ab-4fc9-4798-af80-3ade24ed149b.jpeg
 tags: css3, css, css-flexbox, css-grid
 
 ---
