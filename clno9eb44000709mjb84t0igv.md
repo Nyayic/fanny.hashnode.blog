@@ -3,7 +3,7 @@ title: "The Web Development Playground: Contributing to Open Source Projects"
 datePublished: Fri Oct 13 2023 07:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clno9eb44000709mjb84t0igv
 slug: the-web-development-playground-contributing-to-open-source-projects
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697095026981/5ccfac5d-1c36-4ba0-9b5a-41e5316b38a2.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705020554450/b96291a6-5990-4698-b19c-6e090ebe566d.jpeg
 tags: opensource, contribution-to-open-source
 
 ---
