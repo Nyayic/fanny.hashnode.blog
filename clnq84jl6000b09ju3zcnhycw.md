@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Starting a WordPress Blog: Step-by-Step Guide"
 datePublished: Sat Oct 14 2023 16:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnq84jl6000b09ju3zcnhycw
 slug: the-ultimate-guide-to-starting-a-wordpress-blog-step-by-step-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697096992946/9b946e8a-0f3e-41bc-b255-4b1b01bec175.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705020370364/e39b0c42-6be6-488a-bf3a-43cf7f7d41e9.jpeg
 tags: blogging, wordpress, cms
 
 ---
