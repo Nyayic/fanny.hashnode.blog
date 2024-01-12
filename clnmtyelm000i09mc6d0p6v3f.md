@@ -3,7 +3,7 @@ title: "Beginner's Guide to Programming"
 datePublished: Thu Oct 12 2023 07:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnmtyelm000i09mc6d0p6v3f
 slug: beginners-guide-to-programming
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697001870514/e35a4488-4eac-43c2-9f04-c2694a835bfc.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705020758306/82215988-b455-4406-95dc-eceb2e9352d5.jpeg
 tags: programming-blogs, programming-languages, programming-tips
 
 ---
