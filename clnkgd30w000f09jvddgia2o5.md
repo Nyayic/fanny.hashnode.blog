@@ -3,7 +3,7 @@ title: "Responsive Web Design with Bootstrap: Best Practices"
 datePublished: Tue Oct 10 2023 15:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clnkgd30w000f09jvddgia2o5
 slug: responsive-web-design-with-bootstrap-best-practices
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696950198651/d059cb35-1a5b-4910-bdd8-86918c70e111.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706192940434/4510e41c-d9d3-4977-bad7-a40e71154502.png
 tags: css, bootstrap, responsive-web-design
 
 ---
