@@ -3,7 +3,7 @@ title: "How to Create Responsive Layouts with CSS Grid"
 datePublished: Fri Oct 06 2023 14:04:33 GMT+0000 (Coordinated Universal Time)
 cuid: clneoh27h000b09l24twh02zp
 slug: how-to-create-responsive-layouts-with-css-grid
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696600976365/d4519803-eae7-4ddb-9ea7-ed9127be96a3.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706192982655/0457b234-ca8f-47fb-b720-98ff190bafc2.png
 tags: css, css-grid
 
 ---
