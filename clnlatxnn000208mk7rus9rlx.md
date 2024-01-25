@@ -3,7 +3,7 @@ title: "How to Customize Fonts with CSS"
 datePublished: Wed Oct 11 2023 05:17:02 GMT+0000 (Coordinated Universal Time)
 cuid: clnlatxnn000208mk7rus9rlx
 slug: how-to-customize-fonts-with-css
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697001382800/6d4e4d6e-7358-429b-bc66-89fa971256f9.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706192901608/60eab7ac-2f96-4e35-9518-66cade966e74.png
 tags: css, 2articles1week
 
 ---
