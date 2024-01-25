@@ -3,7 +3,7 @@ title: "Advanced CSS Media Query Techniques"
 datePublished: Sun Oct 01 2023 16:28:10 GMT+0000 (Coordinated Universal Time)
 cuid: cln7oei86000209mjf28a9oqp
 slug: advanced-css-media-query-techniques
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695913565190/079020f1-a51d-4608-b5b9-d5a5a4d79d68.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706193382450/08b59971-9ab8-47e6-9489-c31466c0435f.png
 tags: media-queries, css, 2articles1week
 
 ---
