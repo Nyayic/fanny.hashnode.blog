@@ -3,7 +3,7 @@ title: "How to use CSS media queries to Create a Responsive Website"
 datePublished: Sat Sep 30 2023 05:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: cln5kdunt000109jrapvc3g7x
 slug: how-to-use-css-media-queries-to-create-a-responsive-website
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695910445490/8319353a-3499-40d5-b720-6adf6d820db4.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706278803841/9b3b22f4-12f7-45c8-8cbd-e3a110310a92.png
 tags: media-queries, css-frameworks, css, 2articles1week
 
 ---
