@@ -3,7 +3,7 @@ title: "How to Create Bootstrap Buttons: A Comprehensive Guide"
 datePublished: Thu Sep 28 2023 21:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: cln3nsps8000409l71iej5raf
 slug: how-to-create-bootstrap-buttons-a-comprehensive-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695734917592/3cff61ab-379f-4cfd-aa67-51768e9a503d.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706278876577/f6072ba8-9d16-4a37-a165-af91b4cd8271.png
 tags: css, bootstrap, 2articles1week, crazyblogger
 
 ---
