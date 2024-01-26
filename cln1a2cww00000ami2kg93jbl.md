@@ -3,7 +3,7 @@ title: "How to Style Headings and Paragraphs with CSS"
 datePublished: Wed Sep 27 2023 05:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: cln1a2cww00000ami2kg93jbl
 slug: how-to-style-headings-and-paragraphs-with-css
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695734004522/3aef15cc-a476-4824-9a15-99acabc0168b.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706278944875/0c674346-45ea-4875-b44c-f73805551569.png
 tags: css, 2articles1week
 
 ---
