@@ -3,7 +3,7 @@ title: "Getting Started with JavaScript: A Beginner's Guide"
 datePublished: Wed Sep 20 2023 12:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clmrozj6b000409jngargdfn0
 slug: getting-started-with-javascript-a-beginners-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695029789003/cef28c25-73ad-45df-9aa2-c20c63925e85.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706330032283/79f55480-4b00-465f-b92c-68867514c6a0.png
 tags: javascript, 2articles1week, introduction-to-javascript
 
 ---
