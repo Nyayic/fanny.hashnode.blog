@@ -3,7 +3,7 @@ title: "Box Model: Understanding the Foundation of CSS Layout"
 datePublished: Tue Sep 19 2023 10:30:12 GMT+0000 (Coordinated Universal Time)
 cuid: clmq6bxh1000408ld3yfb3s45
 slug: box-model-understanding-the-foundation-of-css-layout
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695028397102/a12b446e-b0a4-412e-8c8b-e8a681d42ee9.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706330068814/fe2d6988-150e-4b3f-8239-4afafecb6adb.png
 tags: css3, css, box-model, css-box-model
 
 ---
