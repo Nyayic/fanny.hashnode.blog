@@ -3,7 +3,7 @@ title: "CSS Selectors Demystified: A Step-by-Step Tutorial"
 datePublished: Mon Sep 18 2023 08:50:09 GMT+0000 (Coordinated Universal Time)
 cuid: clmonbenj000509mn06i4cb5p
 slug: css-selectors-demystified-a-step-by-step-tutorial
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695026941413/2e0fee09-c6a4-4815-aa87-006b96e017ce.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706330098053/6dd0087d-db1a-45b8-aad5-36553456921f.png
 tags: css-selectors, css3, css, cssselector
 
 ---
