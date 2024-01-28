@@ -3,7 +3,7 @@ title: "Why, What, When, and How to use Namespaces in PHP"
 datePublished: Mon Jun 19 2023 20:50:56 GMT+0000 (Coordinated Universal Time)
 cuid: cljhmewru000d09mn4n9uc4gu
 slug: why-what-when-and-how-to-use-namespaces-in-php
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688071814720/01b22160-5444-46c3-a13d-8f6549dfa607.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706428781946/8cb03e64-c1b2-4504-a2e5-bd12145031f7.png
 tags: namespaces
 
 ---
