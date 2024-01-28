@@ -1,10 +1,10 @@
 ---
-title: "The basic data types supported in PHP"
+title: "The Basic Data Types Supported in PHP"
 seoTitle: "The basic data types supported in PHP"
 datePublished: Wed Jun 14 2023 20:30:22 GMT+0000 (Coordinated Universal Time)
 cuid: cljhlo74z00000ajmc8t49bkw
 slug: the-basic-data-types-supported-in-php
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688070553858/26d9f0af-f855-4ce6-9687-12b5f7154bbc.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706428839062/fe124e3b-8a38-40c3-9a75-1598fdef45ed.png
 tags: php, data-types, codenewbies
 
 ---
