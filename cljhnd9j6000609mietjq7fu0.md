@@ -3,7 +3,7 @@ title: "How Can You Create and Modify Arrays in PHP?"
 datePublished: Thu Jun 22 2023 21:17:35 GMT+0000 (Coordinated Universal Time)
 cuid: cljhnd9j6000609mietjq7fu0
 slug: how-can-you-create-and-modify-arrays-in-php
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688073436788/c7d2288c-9aa7-428a-b9e9-127fb4c8e2a1.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706428811093/e905433d-5ecd-40c5-aaee-f85b8b8dfcfb.png
 tags: php, arrays
 
 ---
