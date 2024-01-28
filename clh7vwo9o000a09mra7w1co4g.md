@@ -3,7 +3,7 @@ title: "How to Build a Note-taking App using PHP"
 datePublished: Thu Apr 27 2023 15:58:20 GMT+0000 (Coordinated Universal Time)
 cuid: clh7vwo9o000a09mra7w1co4g
 slug: how-to-build-a-note-taking-app-using-php
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683128970516/ebbefa00-24be-46ac-8770-d3550dcda384.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706428886915/97bfe66a-c25a-428f-8d05-f85f676e56d7.png
 tags: php, 2articles1week, codenewbies
 
 ---
