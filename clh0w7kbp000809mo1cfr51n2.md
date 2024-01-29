@@ -4,7 +4,7 @@ seoTitle: "How to build a simple Calculator in JavaScript"
 datePublished: Mon Apr 24 2023 18:33:51 GMT+0000 (Coordinated Universal Time)
 cuid: clh0w7kbp000809mo1cfr51n2
 slug: how-to-build-a-simple-calculator-in-javascript
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682706634105/bb7921d4-6b7c-459c-b9bd-fa1da732bb55.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706511100063/076f024e-cde8-4f26-b378-7523e8ece5a4.png
 tags: javascript, 2articles1week, codenewbies
 
 ---
