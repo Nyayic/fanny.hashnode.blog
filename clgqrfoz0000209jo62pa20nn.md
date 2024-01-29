@@ -4,7 +4,7 @@ seoDescription: "Learn web development on your own with these 5 tips: set a goal
 datePublished: Fri Apr 21 2023 16:22:45 GMT+0000 (Coordinated Universal Time)
 cuid: clgqrfoz0000209jo62pa20nn
 slug: 5-tips-for-learning-web-development-on-your-own
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682094033406/ef92361a-f5aa-480c-b35e-e3e7730cc16a.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706513404117/57742fcb-e4bb-41ac-b108-e14eddf4a3e4.png
 tags: web-developers, web-development, 2articles1week, codenewbies
 
 ---
