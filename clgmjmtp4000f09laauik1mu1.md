@@ -5,7 +5,7 @@ seoDescription: "A website that is easy to navigate, visually appealing, and has
 datePublished: Tue Apr 18 2023 17:33:16 GMT+0000 (Coordinated Universal Time)
 cuid: clgmjmtp4000f09laauik1mu1
 slug: 10-tips-for-creating-user-friendly-websites
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681839054677/31d40dbe-efa6-4143-a46e-a082cf593a09.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706640783209/e0d668cc-cc95-4a93-b824-a3e5616b7886.png
 tags: web-development, 2articles1week, codenewbies
 
 ---
