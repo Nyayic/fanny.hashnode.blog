@@ -5,7 +5,7 @@ seoDescription: "Git allows you to keep track of changes in your code, collabora
 datePublished: Wed Apr 12 2023 05:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clgd83trl00zzvrnv8k1p3uvj
 slug: how-to-configure-git-for-the-first-time-name-email-and-other-settings
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680856344097/ba0a5aa8-0b9e-4954-93f9-ae76b2f5f973.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707741077941/06a5cc9b-5a45-4031-bce1-17f4063cb61a.png
 tags: version-control, git, versioning, 2articles1week, codenewbies
 
 ---
