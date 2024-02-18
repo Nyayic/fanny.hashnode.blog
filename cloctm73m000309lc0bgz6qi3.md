@@ -42,7 +42,9 @@ Different browsers interpret CSS rules differently, leading to compatibility iss
 
 ## Browser DevTools for CSS Debugging
 
-One of the most powerful tools for CSS debugging is the browser's built-in developer tools. Every major web browser includes a set of developer tools that allow you to inspect and manipulate CSS styles in real time. These tools offer a wide range of features, including:
+One of the most powerful tools for CSS debugging is the browser's built-in developer tools. Every major web browser includes a set of developer tools that allow you to inspect and manipulate CSS styles in real-time.
+
+These tools offer a wide range of features, including:
 
 ### 1\. Inspecting Elements
 
@@ -101,7 +103,7 @@ Debugging CSS is an integral part of web development. By using a combination of 
 
 **Q1. What are the most common CSS bugs developers face?** Common CSS bugs include misplaced semicolons, typographical errors, specificity conflicts, and cross-browser compatibility issues.
 
-**Q2. How can browser developer tools help with CSS debugging?** Browser developer tools allow you to inspect elements, edit CSS in real-time, and debug layout issues.
+**Q2. How can browser developer tools help with CSS debugging?** Browser developer tools allow you to inspect elements, edit CSS in real time, and debug layout issues.
 
 **Q3. What are the benefits of using CSS linters?** CSS linters help maintain code consistency and catch common errors during development.
 
