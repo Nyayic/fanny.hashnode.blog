@@ -5,8 +5,8 @@ seoDescription: "WordPress is a free and open-source content management system. 
 datePublished: Mon Apr 03 2023 05:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clg0d56dx04o5ilnv929r05nc
 slug: introduction-to-wordpress-and-setting-up-development-environment-using-xampp
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679737476503/cde773b8-6da0-4380-b010-10ff743d07eb.jpeg
-tags: wordpress, web-development, xampp, 2articles1week
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708760970431/d256a763-982c-427c-8ecd-9f15a340a829.png
+tags: web-development, xampp, 2articles1week
 
 ---
 
