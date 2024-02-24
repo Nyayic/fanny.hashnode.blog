@@ -5,7 +5,7 @@ seoDescription: "There may be files or directories in your project that you don'
 datePublished: Sun Apr 09 2023 05:48:38 GMT+0000 (Coordinated Universal Time)
 cuid: clg8zhzwe05ekpxnv8rmgg677
 slug: gitignore-ignoring-files-in-your-git-repository
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680855368785/e312277b-3f82-4649-bae7-27e48e4e4067.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708761270716/0d22cc5c-41f6-45b3-b8c9-2cd6acf5f8ae.png
 tags: github, version-control, git, 2articles1week, gitignore
 
 ---
