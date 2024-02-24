@@ -5,8 +5,8 @@ seoDescription: "Without a version control system like Git, it would be challeng
 datePublished: Sat Mar 11 2023 05:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf3i0kgu00ugdlnv5iyhbqwf
 slug: git-basics-understanding-commits-branches-and-merges
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678283127747/1c922e96-3afc-4bd8-a207-417811d30067.png
-tags: version-control, git
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708761367573/def5a8e9-2290-49b9-8bc1-7a05e33357ef.png
+tags: version-control, git, git-commands, git-github-version-control-linux-git-commands-github-repositories-cheat-sheet-git-branching-git-workflow-collaboration-git-history-git-commit-git-merge-git-rebase-git-pull-request-git-fork-git-stash-git-remote-git-ignore-git-hooks-github-issues-github-actions-github-pages-github-security-git-for-beginners-advanced-git-techniques-github-collaboration-git-integration-git-flow-git-best-practices
 
 ---
 
