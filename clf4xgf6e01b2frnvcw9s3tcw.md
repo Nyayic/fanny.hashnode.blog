@@ -5,7 +5,7 @@ seoDescription: "Less CSS is a dynamic stylesheet language that is designed to m
 datePublished: Sun Mar 12 2023 05:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf4xgf6e01b2frnvcw9s3tcw
 slug: introduction-to-less-css-what-it-is-and-how-it-works
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678295044882/ed7041d1-059b-4619-8dd7-874d49edb22a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708884544441/d7b3e714-ca42-4da5-afa9-a62e7b54163c.png
 tags: less, css, css-preprocessors, less-css, 2articles1week
 
 ---
