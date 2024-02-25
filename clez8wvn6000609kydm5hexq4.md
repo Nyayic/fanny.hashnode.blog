@@ -5,7 +5,7 @@ seoDescription: "Contributing to open-source projects has a huge potential to in
 datePublished: Wed Mar 08 2023 05:34:45 GMT+0000 (Coordinated Universal Time)
 cuid: clez8wvn6000609kydm5hexq4
 slug: benefits-of-contributing-to-open-source-projects
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679301602775/bbc38031-cd2c-40bf-ad3b-43981f87985b.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708883926240/26c6d513-916a-472a-b4c7-a0fce1f4287d.png
 tags: opensource, open-source-community, open-source-beginners-guide
 
 ---
