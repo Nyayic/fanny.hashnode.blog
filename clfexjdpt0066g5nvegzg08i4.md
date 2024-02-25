@@ -5,7 +5,7 @@ seoDescription: "Less is a powerful preprocessor that can make writing CSS more 
 datePublished: Sun Mar 19 2023 05:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfexjdpt0066g5nvegzg08i4
 slug: how-to-install-less-css-and-get-started-with-it
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678990126339/40c8df81-aee4-447b-b352-78a3293fa851.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708884618568/3700099d-2bd3-4f0b-9a04-a89b157d7971.png
 tags: less, css, css-preprocessors, 2articles1week
 
 ---
