@@ -5,7 +5,7 @@ seoDescription: "Contributing to opensource is an excellent way to develop your 
 datePublished: Fri Mar 31 2023 05:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfw2tm6i0589jtnv721eepja
 slug: how-to-contribute-to-open-source-projects
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679724246522/7f609b37-f1f0-4a73-99f4-f64e3cdfee25.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708884010005/11abfbaf-6487-46f3-bd02-a8bc61868250.png
 tags: opensource, 2articles1week, open-source-community, open-source-beginners-guide, contribution-to-open-source
 
 ---
