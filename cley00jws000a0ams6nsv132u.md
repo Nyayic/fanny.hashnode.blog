@@ -6,7 +6,7 @@ datePublished: Tue Mar 07 2023 08:37:54 GMT+0000 (Coordinated Universal Time)
 cuid: cley00jws000a0ams6nsv132u
 slug: how-to-create-hover-effects-with-css
 canonical: https://fannyn.com/how-to-create-hover-effects-with-css/
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679301461296/00a97896-38ea-4dfa-9b43-a9c155068a93.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708919528620/bdbe969f-9fcc-45fd-893c-4ada845ec976.png
 tags: css, css-hover
 
 ---
