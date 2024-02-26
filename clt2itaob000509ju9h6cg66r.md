@@ -83,7 +83,7 @@ body{
 
 In the `script.js` file, and write JavaScript code to create and update the digital clock.
 
-```css
+```javascript
 function updateClock() {
     const now = new Date();
     const hours = now.getHours().toString().padStart(2, '0');
@@ -93,7 +93,6 @@ function updateClock() {
 
     document.getElementById('time').innerText = timeString;
 }
-
 // Update the clock every second
 setInterval(updateClock, 1000);
 
@@ -113,6 +112,8 @@ updateClock();
 ### **Step 6: Testing**
 
 Save all the files and open the `index.html` file in a web browser. You should see a simple and functional digital clock displaying the current time.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708931940261/97a9e45d-dd36-48c5-840b-58188c03b32c.png align="center")
 
 ### **Watch Video Tutorial**
 
