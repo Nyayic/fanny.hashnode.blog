@@ -8,17 +8,19 @@ tags: github, git, github-actions-1, advanced-git
 
 ---
 
-As developers progress in their careers, they often need to deepen their understanding of Git, the distributed version control system that has become an integral part of modern software development.
+As developers progress in their careers, they often need to deepen their understanding and knowledge of Git, the distributed version control system that has become an integral part of modern software development.
 
 Advanced Git techniques can enhance productivity, improve workflow efficiency, and help maintain a clean project history. In this article, we'll explore some powerful Git commands and concepts that go beyond the basics.
 
 ## **Git Rebase**
 
-[**Git Rebase**](https://www.atlassian.com/git/tutorials/advanced-overview) [is a comma](https://www.atlassian.com/git/tutorials/advanced-overview)nd that allows you to move or combine a sequence of commits to a new base commit. Rebasing is useful for cleaning up commit history before merging changes into another branch. It can also be used to integrate changes from the base branch into a feature branch without creating merge commits.
+[**Git Rebase** is a command](https://www.atlassian.com/git/tutorials/advanced-overview) that allows you to move or combine a sequence of commits to a new base commit. Rebasing is useful for cleaning up commit history before merging changes into another branch. It can also be used to integrate changes from the base branch into a feature branch without creating merge commits.
 
 ## **Interactive Rebasing**
 
-Interactive rebasing takes this a step further by allowing you to alter commits as you rebase them. You can squash commits, split them, reword commit messages, or drop them entirely. This is done by using `git rebase -i` followed by the commit hash or reference from which you want to start the rebase.
+Interactive rebasing takes this a step further by allowing you to alter commits as you rebase them. You can squash commits, split them, reword commit messages, or drop them entirely.
+
+This is done by using `git rebase -i` followed by the commit hash or reference from which you want to start the rebase.
 
 ```markdown
 git rebase -i HEAD~5
