@@ -5,7 +5,7 @@ seoDescription: "Building a strong web development portfolio is crucial for adva
 datePublished: Thu Mar 09 2023 05:05:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf0nbahh0042hxnv9k43apq1
 slug: top-15-web-development-project-ideas-to-add-to-your-portfolio
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679301797157/da6587c6-56b4-4c7e-af34-cdad828bbf13.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709815614963/e118b746-e2b7-478f-8109-9b2971e3b214.png
 tags: website, web-development, webdev
 
 ---
