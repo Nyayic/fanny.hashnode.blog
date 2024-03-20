@@ -157,15 +157,19 @@ We implemented a function (`getRandomColor()`) to generate random colors for eac
 
 The chart is updated dynamically whenever a user adds data, providing a seamless and responsive user experience.
 
+### Watch the video tutorial.
+
+%[https://youtu.be/oMJ9ArFCTGM?si=wGKPiomQLjiX7UHT] 
+
 ## Showcase of Technical and Creative Abilities
 
-This project demonstrates proficiency in HTML, CSS, and JavaScript. The well-organized code structure, comments, and thoughtful design showcase a commitment to writing clean and maintainable code. The dynamic nature of the chart reflects creative problem-solving skills.
+This project demonstrates your proficiency in HTML, CSS, and JavaScript. The well-organized code structure, comments, and thoughtful design showcase a commitment to writing clean and maintainable code. The dynamic nature of the chart reflects creative problem-solving skills.
 
 ## Alternative Solutions
 
-* Instead of using percentages, the user could input absolute values, and the system would calculate the percentages automatically.
+* Instead of using percentages, you can input absolute values, and the system will calculate the percentages automatically.
     
 * Utilizing a chart library like Chart.js for a more feature-rich solution.
     
 
-Overall, this simple colorful pie chart generator is a visually engaging and user-friendly project that highlights my technical skills and creativity in web development.
+Overall, this simple, colorful pie chart generator is a visually engaging and user-friendly project that highlights basic technical skills and creativity in web development.
