@@ -8,19 +8,23 @@ tags: react, reactjs, reacthooks
 
 ---
 
-Setting up a React.js development environment is a straightforward process that involves a few key steps to get you started with building React applications. 
+Setting up a React.js development environment is a straightforward process that involves a few key steps to get you started with building React applications.
 
-React is a popular JavaScript library for building user interfaces, particularly single-page applications where you need a fast, interactive user experience. Here's a detailed guide on how to set up a React.js development environment:
+React is a popular JavaScript library for building user interfaces, particularly single-page applications where you need a fast, interactive user experience.
 
-##  Step 1: Install Node.js and npm
+Here's a detailed guide on how to set up a React.js development environment:
 
-Before you can start working with React, you need to have Node.js and npm (Node Package Manager) installed on your computer. 
+## Step 1: Install Node.js and npm
+
+Before you can start working with React, you need to have Node.js and npm (Node Package Manager) installed on your computer.
 
 Node.js is a runtime environment that allows you to run JavaScript on the server side, and npm is a package manager that gives you access to a large ecosystem of libraries and tools.
 
-To install Node.js and npm, visit the \[Node.js website\]([https://nodejs.org/](https://nodejs.org/)) and download the installer for your operating system. The npm package manager comes bundled with Node.js, so installing Node.js will automatically install npm as well.
+To install Node.js and npm, visit the Node.js website([https://nodejs.org/](https://nodejs.org/)) and download the installer for your operating system.
 
-##  Step 2: Set Up a React Project
+The npm package manager comes bundled with Node.js, so installing Node.js will automatically install npm as well.
+
+## Step 2: Set Up a React Project
 
 The most common way to set up a new React project is by using the `create-react-app` command-line tool, which sets up the project structure and installs the necessary dependencies.
 
@@ -54,7 +58,7 @@ Inside the project directory, you can start the development server by running:
 npm start
 ```
 
-This command will start a local development server and open up your default web browser to the URL [`http://localhost:3000/`](http://localhost:3000/`), where you can see your new React application running.
+This command will start a local development server and open up your default web browser to the URL [`http://localhost:3000/`](http://localhost:3000/%60), where you can see your new React application running.
 
 ## Step 5: Explore the Project Structure
 
@@ -72,13 +76,15 @@ Take a moment to explore the project structure created by `create-react-app`. Yo
 
 \- [`README.md`](http://README.md): A markdown file that contains useful information about the created project.
 
-##  Step 6: Edit Your First React Component
+## Step 6: Edit Your First React Component
 
 React components are the building blocks of a React application. Open the `src/App.js` file to see a simple React component provided by `create-react-app`.
 
 This component is a functional component that returns JSX (a syntax extension for JavaScript that looks similar to HTML) to render the user interface.
 
-You can edit `App.js` to start building your own component. For example, try changing the text inside the `<p>` tag and save the file. The development server will automatically reload the page with your changes
+You can edit `App.js` to start building your own component. For example, try changing the text inside the `<p>` tag and save the file.
+
+The development server will automatically reload the page with your changes
 
 ```markdown
 function App() {
@@ -97,7 +103,7 @@ export default App;
 
 ## Step 7: Learn About React Basics
 
-Now that you have a running React application, it's a good time to start learning about React basics, such as components, state, and props. The official \[React documentation\]([React JS](https://react.dev/)) is a great resource for beginners.
+Now that you have a running React application, it's a good time to start learning about React basics, such as components, state, and props. The official React documentation([React JS](https://react.dev/)) is a great resource for beginners.
 
 ## Step 8: Use Version Control
 
@@ -128,19 +134,19 @@ As you become more comfortable with React, you may want to explore additional to
   npm install eslint --save-dev
 ```
 
-  And then you can set it up by running:
+And then you can set it up by running:
 
 ```markdown
   npx eslint --init
 ```
 
-**\- Prettier:** An opinionated code formatter that supports many languages and integrates with most editors. It helps maintain consistent code style. You can install Prettier by running:
+**\- Prettier:** An opinionated code formatter that supports many languages and integrates with most editors. It helps maintain a consistent code style. You can install Prettier by running:
 
 ```markdown
   npm install --save-dev --save-exact prettier
 ```
 
- And add a script to your `package.json` to format your code:
+And add a script to your `package.json` to format your code:
 
 ```markdown
 "scripts": {
@@ -160,7 +166,7 @@ You can eject from `create-react-app` to customize your Webpack configuration, b
   npx create-react-app my-app --template typescript
 ```
 
- Or, if you have an existing project, you can add it by running:
+Or, if you have an existing project, you can add it by running:
 
 ```markdown
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
@@ -226,4 +232,4 @@ Also, monitor the performance of your application. React Developer Tools has a p
 
 **\- Regular Audits:** Periodically use tools like Google's Lighthouse or [web.dev](http://web.dev) to audit your app for performance, accessibility, progressive web app standards, SEO, and more.
 
-By following these steps and best practices, you'll be well on your way to setting up a professional React.js development environment that is efficient, secure, and scalable. Always keep learning and stay updated with the latest trends and updates in the React ecosystem to ensure your skills and your applications remain cutting edge.
+Always keep learning and stay updated with the latest trends and updates in the React ecosystem to ensure your skills and your applications remain cutting edge.
