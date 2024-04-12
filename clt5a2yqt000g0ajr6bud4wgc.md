@@ -16,7 +16,9 @@ As a beginner, the journey to mastering Salesforce can seem challenging, but wit
 
 Before diving into Salesforce, it's essential to grasp the basics of CRM. CRM systems are designed to manage and analyze customer interactions and data throughout the customer lifecycle.
 
-The goal is to improve business relationships, retain customers, and drive sales growth. A CRM system helps in collecting, organizing, and managing customer information, which is critical for making informed business decisions and offering personalized customer experiences.
+The goal is to improve business relationships, retain customers, and drive sales growth.
+
+A CRM system helps in collecting, organizing, and managing customer information, which is critical for making informed business decisions and offering personalized customer experiences.
 
 ## **The Salesforce Ecosystem**
 
