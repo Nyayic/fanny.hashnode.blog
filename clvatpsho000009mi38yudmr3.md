@@ -113,4 +113,6 @@ In this guide, I will walk you through using Snap and Flatpak on Ubuntu. Both ar
 
 ### Final Thoughts
 
-Both Snap and Flatpak safeguard your system, streamline application updates, and extend compatibility across different Linux distributions. By following this guide, you can confidently manage your software using these modern tools.
+Both Snap and Flatpak safeguard your system, streamline application updates, and extend compatibility across different Linux distributions.
+
+***Happy Coding!***
