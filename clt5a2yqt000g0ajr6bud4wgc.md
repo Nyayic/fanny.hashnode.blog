@@ -77,3 +77,5 @@ By understanding CRM fundamentals, exploring the Salesforce platform, and engagi
 Remember to practice hands-on, stay updated with new releases, and consider certification to advance your career.
 
 With Salesforce, you're not just learning a CRM; you're gaining a versatile skill set that can open doors to numerous opportunities in the growing field of CRM technology.
+
+Happy Learning!
