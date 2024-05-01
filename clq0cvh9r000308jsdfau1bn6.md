@@ -10,13 +10,13 @@ tags: programming-blogs, visual-studio, vscode, vs-code, programming-tips
 
 ---
 
-Visual Studio Code (VS Code) has emerged as a powerhouse among code editors, especially for web developers. 
+Visual Studio Code (VS Code) has emerged as a powerhouse among code editors, especially for web developers.
 
-Its flexibility, extensive customization options, and a vast library of extensions make it a top choice. In this guide, we'll explore how to set up Visual Studio Code for web development, including essential extensions and optimal settings to streamline your workflow.
+Its flexibility, extensive customization options, and a vast library of extensions make it a top choice. This guide'll explore how to set up Visual Studio Code for web development, including essential extensions and optimal settings to streamline your workflow.
 
 ## Installing Visual Studio Code
 
-Before diving into the specifics, make sure you have Visual Studio Code installed on your system. Visit \[Visual Studio Code's official website\]([https://code.visualstudio.com/](https://code.visualstudio.com/)) and download the appropriate version for your operating system.
+Before diving into the specifics, ensure you have Visual Studio Code installed on your system. Visit \[Visual Studio Code's official website\]([https://code.visualstudio.com/](https://code.visualstudio.com/)) and download the appropriate version for your operating system.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702262280302/a867b047-2c35-44d6-a6be-ec96bd8812dc.png align="center")
 
@@ -26,52 +26,52 @@ Once downloaded, follow the installation instructions provided.
 
 Extensions are the backbone of Visual Studio Code, empowering developers with additional functionalities. Here are some must-have extensions for web development:
 
- **1. ESLint**
+**1\. ESLint**
 
 * Provides real-time linting for JavaScript/TypeScript, helping maintain code quality.
     
 
- **2. Prettier Code formatter**
+**2\. Prettier Code formatter**
 
 * Automatically formats your code according to predefined rules, enhancing code consistency.
     
 
- **3. Live Server**
+**3\. Live Server**
 
 * Launches a local development server with live reload capability, making it easier to preview changes instantly.
     
 
- **4. Debugger for Chrome**
+**4\. Debugger for Chrome**
 
 * Enables debugging JavaScript code directly within VS Code using Google Chrome's debugging tools.
     
 
- **5. HTML CSS Support**
+**5\. HTML CSS Support**
 
 * Offers autocomplete for HTML class names and CSS selectors, improving coding speed.
     
 
- **6. Git Lens**
+**6\. Git Lens**
 
 * Enhances Git integration within VS Code, providing valuable insights into code history and team collaboration.
     
 
- **7. Bracket Pair Colorized**
+**7\. Bracket Pair Colorized**
 
 * Aids code readability by colorizing matching brackets, making it simpler to identify code blocks.
     
 
- **8. Path Intellisense**
+**8\. Path Intellisense**
 
 * Autocompletes file paths and filenames, reducing errors while referencing files.
     
 
- **9. Auto Rename Tag**
+**9\. Auto Rename Tag**
 
 * Automatically renames paired HTML/XML tags, ensuring consistency and saving time.
     
 
- **10\. Color Highlight**
+**10\. Color Highlight**
 
 * Visualizes color codes directly in the editor, offering a quick overview of color representations.
     
@@ -98,34 +98,34 @@ To install extensions in Visual Studio Code, follow these steps:
 
 Visual Studio Code allows extensive customization through its settings. Here's how you can tailor it for an optimal web development experience:
 
- **1. User Settings vs. Workspace Settings**
+**1\. User Settings vs. Workspace Settings**
 
 * User Settings: Apply globally for all projects.
     
 * Workspace Settings: Apply to a specific project/workspace.
     
 
- **2. Setting up File Associations**
+**2\. Setting up File Associations**
 
 * Associate file types with specific languages for syntax highlighting. For instance, associate `.html` files with HTML language mode.
     
 
- **3. Editor Configurations**
+**3\. Editor Configurations**
 
 * Adjust tab size, indentation, word wrap, and other editor-specific configurations according to your preference.
     
 
- **4. Customizing Themes**
+**4\. Customizing Themes**
 
 * Choose a theme that suits your taste and enhances readability during coding sessions.
     
 
- **5. Keyboard Shortcuts**
+**5\. Keyboard Shortcuts**
 
 * Customize or learn existing keyboard shortcuts to expedite your workflow.
     
 
- **6. IntelliSense**
+**6\. IntelliSense**
 
 * Finetune IntelliSense settings to better assist you while writing code.
     
@@ -141,10 +141,10 @@ To ensure smooth performance while working on web development projects, consider
 * **Workspace Isolation:** Use workspaces to isolate projects, preventing interference between different project configurations.
     
 
-##  Conclusion
+## Conclusion
 
-Setting up Visual Studio Code for web development involves installing crucial extensions, customizing settings, and optimizing performance. 
+Setting up Visual Studio Code for web development involves installing crucial extensions, customizing settings, and optimizing performance.
 
-Leveraging the vast array of extensions available and tailoring settings to suit your workflow can significantly enhance productivity and efficiency. 
+Leveraging the vast array of extensions available and tailoring settings to suit your workflow can significantly enhance productivity and efficiency.
 
 Experiment with various extensions and settings to find what works best for you, and remember to keep your tools updated for an optimal development experience.
