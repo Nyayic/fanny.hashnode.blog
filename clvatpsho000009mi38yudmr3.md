@@ -16,7 +16,9 @@ In this guide, I will walk you through using Snap and Flatpak on Ubuntu. Both ar
 
 **Snap** is a package management system that Canonical developed to allow you to install and run applications in a sandboxed environment. This method ensures that software runs consistently across different systems.
 
-**Flatpak** is a similar tool that focuses on providing a universal software deployment system. It isolates apps from the rest of the system using containers, ensuring that they don't interfere with each other or the underlying system.
+**Flatpak** is a similar tool that focuses on providing a universal software deployment system.
+
+It isolates apps from the rest of the system using containers, ensuring that they don't interfere with each other or the underlying system.
 
 ## Advantages of Using Snap and Flatpak
 
@@ -113,6 +115,6 @@ In this guide, I will walk you through using Snap and Flatpak on Ubuntu. Both ar
 
 ### Final Thoughts
 
-Both Snap and Flatpak safeguard your system, streamline application updates, and extend compatibility across different Linux distributions.
+Snap and Flatpak safeguard your system, streamline application updates, and extend compatibility across different Linux distributions.
 
 ***Happy Coding!***
