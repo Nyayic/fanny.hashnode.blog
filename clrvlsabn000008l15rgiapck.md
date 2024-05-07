@@ -163,7 +163,9 @@ The chart is updated dynamically whenever a user adds data, providing a seamless
 
 ## Showcase of Technical and Creative Abilities
 
-This project demonstrates your proficiency in HTML, CSS, and JavaScript. The well-organized code structure, comments, and thoughtful design showcase a commitment to writing clean and maintainable code. The dynamic nature of the chart reflects creative problem-solving skills.
+This project demonstrates your proficiency in HTML, CSS, and JavaScript. The well-organized code structure, comments, and thoughtful design showcase a commitment to writing clean and maintainable code.
+
+The dynamic nature of the chart reflects creative problem-solving skills.
 
 ## Alternative Solutions
 
@@ -173,3 +175,5 @@ This project demonstrates your proficiency in HTML, CSS, and JavaScript. The wel
     
 
 Overall, this simple, colorful pie chart generator is a visually engaging and user-friendly project that highlights basic technical skills and creativity in web development.
+
+***Happy Coding!***
