@@ -132,7 +132,7 @@ Choose a theme for example when we choose "Monokai" Here is how our theme change
 
 Customizing themes and color schemes in Visual Studio Code will empower you as a developer to create a workspace that resonates with your preferences and enhances coding experiences.
 
-By exploring the multitude of available themes, managing extensions, and diving into advanced settings, VS Code users can craft a personalized coding environment that fosters productivity and enjoyment in their development journey.
+With the multitude of available themes, managing extensions, and diving into advanced settings, VS Code users can craft a personalized coding environment that fosters productivity and enjoyment in their development journey.
 
 Try out the flexibility of VS Code and tailor it to match your unique style and needs.
 
