@@ -34,7 +34,9 @@ Color schemes, a subset of themes, specifically define the color combinations us
 
 2\. Accessing the Color Theme: In the settings panel, select "Color Theme" from the sidebar to explore the installed themes.
 
-3\. Choosing a Theme: Click on a theme to preview it. VS Code offers a range of built-in themes like Dark+, Light+, and Quiet Light. Experiment with different themes to find the one that suits your taste.
+3\. Choosing a Theme: Click on a theme to preview it. VS Code offers a range of built-in themes like Dark+, Light+, and Quiet Light.
+
+Experiment with different themes to find the one that suits your taste.
 
 ## Installing and Managing Themes
 
@@ -90,7 +92,7 @@ Color schemes, a subset of themes, specifically define the color combinations us
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702268075593/fa24a6a3-0aa8-413c-babe-cdfbefba6dde.png align="center")
 
-###  Modifying Workbench Settings
+### Modifying Workbench Settings
 
 1\. Tweaking UI Elements: Explore "workbench.colorCustomizations" and "workbench.iconTheme" settings to personalize various UI elements and icon appearances.
 
