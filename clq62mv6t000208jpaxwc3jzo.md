@@ -70,7 +70,7 @@ Experiment with different themes to find the one that suits your taste.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702267853053/9aed5fde-c393-4f98-9a59-da3da632158b.png align="center")
 
-2\. Customize Colors: Modify the values under "workbench.colorCustomizations" to personalize specific syntax colors. For instance, changing "editor.background" alters the background color.
+2\. Customize Colors: Modify the values under **"workbench.colorCustomizations"** to personalize specific syntax colors. For instance, changing **"editor.background"** alters the background color.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702267917204/d821fe1d-5da9-480b-b02e-e92c709fc503.png align="center")
 
