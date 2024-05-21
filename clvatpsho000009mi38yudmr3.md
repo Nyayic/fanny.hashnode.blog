@@ -117,4 +117,4 @@ It isolates apps from the rest of the system using containers, ensuring that the
 
 Snap and Flatpak safeguard your system, streamline application updates, and extend compatibility across different Linux distributions.
 
-***Happy Coding!***
+***Happy Learning!***
