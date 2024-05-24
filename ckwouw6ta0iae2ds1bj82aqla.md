@@ -27,13 +27,17 @@ On the other hand, if you’re a mid-career professional looking to transition i
 
 ## Start with the Basics
 
-Once you figure out why you want to code, you can more easily pinpoint which programming language you should tackle. While there is no single “best” programming language to learn, some languages are more user-friendly than others. HTML and CSS are considered the easiest entry points into the coding world, but they are only really useful for developing basic websites.
+Once you figure out why you want to code, you can more easily pinpoint which programming language you should tackle. While there is no single “best” programming language to learn, some languages are more user-friendly than others.
+
+HTML and CSS are considered the easiest entry points into the coding world, but they are only really useful for developing basic websites.
 
 A mistake many students commit in any learning process is to try and skip the basics or spend less time with the fundamentals of a subject, and jump to chapter 3 or 4 right away—ignoring or skimming over the first few chapters.
 
 ## Try Online courses
 
-If you want more control over your learning schedule (or don’t want to go at it alone), an online coding course might be a better option than an in-person coding boot camp. However, there are many different online classes that teach the same programming languages, and it can be hard to figure out which one is truly worth your time and money.
+If you want more control over your learning schedule (or don’t want to go at it alone), an online coding course might be a better option than an in-person coding boot camp.
+
+However, many different online classes teach the same programming languages, and it can be hard to figure out which one is truly worth your time and money.
 
 Sites like free code camp, Coursera, Udacity, CodeAcademy offer beginner-friendly courses.
 
