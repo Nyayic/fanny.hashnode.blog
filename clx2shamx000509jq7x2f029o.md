@@ -228,5 +228,7 @@ Watch Video Tutorial
 
 ## Final Thoughts
 
-This is an ideal project to practice your HTML, CSS and Javascript Skills especially if you are a beginner. Try this out and modify it in your favorite ways.  
+This is an ideal project to practice your HTML, CSS, and Javascript Skills especially if you are a beginner.  
+Try this out and modify it in your favorite ways.  
+  
 Happy Coding!
