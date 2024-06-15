@@ -8,7 +8,7 @@ tags: css, javascript, html5, pomodoro
 
 ---
 
-In this guide, let's build a simple Pomodoro timer tool. This project is ideal for you to practice HTML, CSS and Javascript.
+In this guide, let's build a simple Pomodoro timer tool. This project is ideal for you to practice HTML, CSS, and Javascript.
 
 ## Step 1: Set up your Project
 
