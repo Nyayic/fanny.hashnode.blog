@@ -24,7 +24,7 @@ It helped responders find safe routes and vital infrastructure, such as hospital
 
 ### My Journey with OpenStreetMap
 
-This October 2024, I chose to contribute to OSM through the Outreachy program because I was deeply moved by its impact on rescue missions during the earthquakes.
+I chose to contribute to OSM because I was deeply moved by its impact on rescue missions during the earthquakes.
 
 I felt a profound sense of purpose as I joined this global effort. This collective effort showed me the incredible power of community-driven initiatives during crises.
 
