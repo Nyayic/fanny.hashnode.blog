@@ -3,13 +3,14 @@ title: "How to Find “Good First Issues” on GitHub: A Practical, Step-by-Step
 datePublished: Mon Nov 24 2025 07:04:09 GMT+0000 (Coordinated Universal Time)
 cuid: cmicswvtv000002jmaldjahzl
 slug: how-to-find-good-first-issues-on-github-a-practical-step-by-step-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763969174869/988adcba-745f-4cda-869d-b0a7ea849a29.png
 tags: github, opensource, open-source
 
 ---
 
 If you want to contribute to open source but don’t know where to start, you’re not alone. Many developers want to dive in but struggle to find issues that are both approachable and meaningful. The good news: GitHub makes this easier than it looks. With the right workflow, you can consistently uncover clear, beginner-friendly issues in active, healthy projects.
 
-Here’s a practical, straightforward guide.
+Here’s a practical guide.
 
 ## **1\. Choose Your Focus**
 
@@ -142,7 +143,7 @@ When you begin coding:
     
 * follow linters and style rules
     
-* test locally before submitting  
+* test locally before submitting
     
 
 Reference the issue in your PR.
